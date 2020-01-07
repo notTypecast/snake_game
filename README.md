@@ -13,3 +13,4 @@ I have basically made the original game, with (so far) a few additions of my own
 
 (Note: The snake, during and after powerup stage 2, starts splitting into boxes more and more due to the speed increase. I believed that that was a cool effect, so I left it in.)
 
+Game was developed and has only been tested on Windows.
