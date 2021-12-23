@@ -84,10 +84,10 @@ class Run(object):
 		pygame.font.init()
 		self.myfont = pygame.font.SysFont('Comic Sans MS', 30)
 
-		self.UI = pygame.image.load('assets\\UI.png')
+		self.UI = pygame.image.load('assets/UI.png')
 		self.UI.set_alpha(122)
 
-		self.tick = pygame.image.load('assets\\tick.png')
+		self.tick = pygame.image.load('assets/tick.png')
 
 		##Game variables
 
